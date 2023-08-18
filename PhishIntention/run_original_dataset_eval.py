@@ -3,7 +3,7 @@ import csv
 import time
 import argparse
 import pandas as pd
-
+import PIL
 from datetime import datetime
 from phishintention.src.AWL_detector import *
 from phishintention.src.crp_classifier import *
@@ -138,6 +138,7 @@ if __name__ == '__main__':
     ocr_weights_path = anaconda_path + "src/OCR_siamese_utils/demo_downgrade.pth.tar"
     targetlist_path = anaconda_path + "src/phishpedia_siamese/expand_targetlist/"
     domain_map_path = anaconda_path + "src/phishpedia_siamese/domain_map.pkl"
+
     
     ele_cfg, ele_model = element_config(rcnn_weights_path=rcnn_weights_path, rcnn_cfg_path=rcnn_cfg_path)
 

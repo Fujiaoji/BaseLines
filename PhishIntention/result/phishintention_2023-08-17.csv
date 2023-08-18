@@ -1,4 +1,4 @@
 folder_name,true_brand,pred_brand,phish,siamese_conf,url
 www.paypal.com,www.paypal.com,,0,0,https://www.paypal.com/hk/home
 ru.russianmastercach-republick.xyz,ru.russianmastercach-republick.xyz,,0,0,https://ru.russianmastercach-republick.xyz/
-accounts.g.cdcde.com,accounts.g.cdcde.com,google,1,0.967926,https://accounts.g.cdcde.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.g.cdcde.com/&followup=https://plus.g.cdcde.com/
+accounts.g.cdcde.com,accounts.g.cdcde.com,google,1,0.9679303,https://accounts.g.cdcde.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.g.cdcde.com/&followup=https://plus.g.cdcde.com/
